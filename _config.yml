@@ -26,7 +26,7 @@ instagram_username: felixmarnavea
 #lastfm_username: your_lastfm_username_goes_here
 #blog_url: "/blog"
 email: felixmar.navea@coderic.net
-public_key_url: "/keys/id_rsa.pub"
+#public_key_url: "/keys/id_rsa.pub"
 
 avatar: yes
 avatar_img_path: "imgs/felixmar-navea.jpg"
